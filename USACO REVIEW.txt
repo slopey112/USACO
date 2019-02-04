@@ -1,0 +1,91 @@
+USACO 2019 January Contest
+
+There is an overall analysis for each division, as well as a problem by problem analysis. The overall analysis' percentages are based on total participants, and the pass rate in problem by problem percentages are based solely on those who were promoted. The pass percentage refers to the average number of cases complete, scaled to a percentage. A pass is defined as a score >= 750 (per this contest's rules). 
+
+*clap* *clap*
+USACO REVIEW
+
+
+-------BRONZE-------
+2037 entries.
+Passes:       586
+Perfects:     446
+Pass rate:    28.77%
+Perfect rate: 21.89%
+
+Problem 1
+Cases Correct:   5856
+Cases Wrong:     4
+Cases Timed Out: 0
+Errors:          0
+Pass Rate:       99.93%
+
+Problem 2
+Cases Correct:   5505
+Cases Wrong:     276
+Cases Timed Out: 55
+Errors:          24
+Pass Rate:       93.94%
+
+Problem 3
+Cases Correct:   5511
+Cases Wrong:     296
+Cases Timed Out: 48
+Errors:          5
+Pass Rate:       94.04%
+
+-------SILVER-------
+1511 entries.
+Passes:       723
+Perfects:     447
+Pass rate:    47.85%
+Perfect rate: 29.58%
+
+Problem 1
+Cases Correct:   7000
+Cases Wrong:     88
+Cases Timed Out: 133
+Errors:          9
+Pass Rate:       96.82%
+
+Problem 2
+Cases Correct:   6945
+Cases Wrong:     123
+Cases Timed Out: 135
+Errors:          27
+Pass Rate:       96.06%
+
+Problem 3
+Cases Correct:   6994
+Cases Wrong:     16
+Cases Timed Out: 205
+Errors:          15
+Pass Rate:       96.74%
+
+--------GOLD--------
+812 entries.
+Passes:       155
+Perfects:     113
+Pass rate:    19.09%
+Perfect rate: 13.92%
+
+Problem 1
+Cases Correct:   1531
+Cases Wrong:     17
+Cases Timed Out: 2
+Errors:          0
+Pass Rate:       98.77%
+
+Problem 2
+Cases Correct:   1499
+Cases Wrong:     14
+Cases Timed Out: 35
+Errors:          2
+Pass Rate:       96.71%
+
+Problem 3
+Cases Correct:   1544
+Cases Wrong:     1
+Cases Timed Out: 5
+Errors:          0
+Pass Rate:       99.61%
