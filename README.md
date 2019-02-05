@@ -11,7 +11,7 @@ Jan 2016       | [promotion](/src/promotion.java)   | Math
 Jan 2017       | [notlast](/src/notlast.java)       | Sorting
 Dec 2017       | [shuffle](/src/shuffle.java)       | Simulation
 Jan 2018       | [outofplace](/src/outofplace.java) | Bubble Sort
-Feb 2018       | [teleport](/src/teleport.java)     | Subtraction
+Feb 2018       | [teleport](/src/teleport.java)     | Math
 Open 2018      | [tttt](/src/tttt.java)             | Simulation
 Dec 2018       | [mixmilk](/src/mixmilk.java)       | Simulation
 Dec 2018       | [blist](/src/blist.java)           | Sorting
