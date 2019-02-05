@@ -1,8 +1,6 @@
-# USACO
+# USACO Problem Solutions
 
-### Problem Solutions
-
-##### Bronze
+### Bronze
 Problem Date   | Problem Name             
 :------------: | :-----------:            
 Dec 2015       | [paint](/src/paint.java)         
@@ -19,7 +17,7 @@ Dec 2018       | [backforth](/src/backforth.java)
 Jan 2019       | [shell](/src/backforth.java)
 Jan 2019       | [guess](/src/guess.java)
 
-##### Silver
+### Silver
 Problem Date   | Problem Name             
 :------------: | :-----------:    
 Dec 2017       | [homework](/src/homework.java)
@@ -27,7 +25,7 @@ Jan 2019       | [planting](/src/planting.java)
 Jan 2019       | [perimeter](/src/perimeter.java)
 Jan 2019       | [mountain](/src/mountain.java)
 
-##### Gold
+### Gold
 Problem Date   | Problem Name             
 :------------: | :-----------:  
 Jan 2016       | [radio](/src/radio.java)
