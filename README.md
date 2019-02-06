@@ -23,7 +23,7 @@ Jan 2019       | [guess](/src/guess.java)           | Complete Search
 Problem Date   | Problem Name                       | Solution Notes
 :------------: | :-----------:                      | :-------------------:
 Dec 2017       | [homework](/src/homework.java)     | Complete Search
-Jan 2019       | [planting](/src/planting.java)     | Ad Hoc 
+Jan 2019       | [planting](/src/planting.java)     | Math
 Jan 2019       | [perimeter](/src/perimeter.java)   | Flood Fill
 Jan 2019       | [mountains](/src/mountains.java)   | Sorting 
 
