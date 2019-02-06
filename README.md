@@ -1,6 +1,6 @@
 # USACO Problem Solutions
 
-The following are tables filled with all my full-solved solutions to USACO problems. 
+The following are tables filled with all my solutions to USACO problems. To clarify, all of the below problems have been full-solved with the respective solutions.  
 
 ### Bronze
 Problem Date   | Problem Name                       | Solution Notes
@@ -25,7 +25,7 @@ Problem Date   | Problem Name                       | Solution Notes
 Dec 2017       | [homework](/src/homework.java)     | Complete Search
 Jan 2019       | [planting](/src/planting.java)     | Ad Hoc 
 Jan 2019       | [perimeter](/src/perimeter.java)   | Flood Fill
-Jan 2019       | [mountain](/src/mountain.java)     | Sorting 
+Jan 2019       | [mountains](/src/mountains.java)   | Sorting 
 
 ### Gold
 Problem Date   | Problem Name                       | Sorting Notes
