@@ -25,7 +25,7 @@ Problem Date   | Problem Name                       | Solution Notes
 Dec 2017       | [homework](/src/homework.java)     | Complete Search
 Jan 2019       | [planting](/src/planting.java)     | Ad Hoc 
 Jan 2019       | [perimeter](/src/perimeter.java)   | Flood Fill
-Jan 2019       | [mountain](/src/mountain.java)     | Sorting 
+Jan 2019       | [mountains](/src/mountains.java)   | Sorting 
 
 ### Gold
 Problem Date   | Problem Name                       | Sorting Notes
