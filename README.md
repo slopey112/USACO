@@ -1,6 +1,6 @@
 # USACO Problem Solutions
 
-The following are tables filled with all my full-solved solutions to USACO problems. 
+The following are tables filled with all my solutions to USACO problems. To clarify, all of the below problems have been full-solved with the respective solutions.  
 
 ### Bronze
 Problem Date   | Problem Name                       | Solution Notes
