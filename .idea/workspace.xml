@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fcebf7b5-43f6-43e9-b845-a13a6dd0e868" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hps.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hps.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nocross.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nocross.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nocross.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/cardgame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/USACO/cardgame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/USACO/hps.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/USACO/hps.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,10 +24,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/hps.java">
+        <entry file="file://$PROJECT_DIR$/src/nocross.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="43" column="120" selection-start-line="43" selection-start-column="120" selection-end-line="43" selection-end-column="120" />
+            <state relative-caret-position="313">
+              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -36,16 +36,12 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hps.in">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/nocross.in">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hps.out">
+        <entry file="file://$PROJECT_DIR$/nocross.out">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -78,9 +74,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/mixmilk.java" />
-        <option value="$PROJECT_DIR$/mixmilk.out" />
-        <option value="$PROJECT_DIR$/mixmilk.in" />
         <option value="$PROJECT_DIR$/backforth.out" />
         <option value="$PROJECT_DIR$/backforth.in" />
         <option value="$PROJECT_DIR$/src/backforth.java" />
@@ -129,6 +122,9 @@
         <option value="$PROJECT_DIR$/hps.in" />
         <option value="$PROJECT_DIR$/hps.out" />
         <option value="$PROJECT_DIR$/src/hps.java" />
+        <option value="$PROJECT_DIR$/nocross.out" />
+        <option value="$PROJECT_DIR$/nocross.in" />
+        <option value="$PROJECT_DIR$/src/nocross.java" />
       </list>
     </option>
   </component>
@@ -167,7 +163,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549436966976" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549506625468" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -177,6 +173,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -192,7 +189,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.hps">
+  <component name="RunManager" selected="Application.nocross">
     <configuration name="cardgame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cardgame" />
       <module name="USACO" />
@@ -214,6 +211,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="nocross" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nocross" />
+      <module name="USACO" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="radio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="radio" />
       <module name="USACO" />
@@ -221,27 +225,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="shortcut" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="shortcut" />
-      <module name="USACO" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.shortcut" />
       <item itemvalue="Application.checklist" />
       <item itemvalue="Application.radio" />
       <item itemvalue="Application.cardgame" />
       <item itemvalue="Application.hps" />
+      <item itemvalue="Application.nocross" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.nocross" />
         <item itemvalue="Application.hps" />
         <item itemvalue="Application.cardgame" />
         <item itemvalue="Application.radio" />
         <item itemvalue="Application.checklist" />
-        <item itemvalue="Application.shortcut" />
       </list>
     </recent_temporary>
   </component>
@@ -293,18 +290,18 @@
       <workItem from="1549239018203" duration="20779000" />
       <workItem from="1549344599652" duration="43000" />
       <workItem from="1549344718107" duration="6740000" />
-      <workItem from="1549428591246" duration="3094000" />
+      <workItem from="1549428591246" duration="5120000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="166091000" />
+    <option name="totallyTimeSpent" value="168117000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49879518" visible="true" weight="0.16849817" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49879518" visible="true" weight="0.16849817" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -313,7 +310,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.50120485" side_tool="true" weight="0.15307583" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32857144" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25918368" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.45306122" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -344,20 +341,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/shell.out">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shell.in">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/shell.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/guessbackup.java" />
     <entry file="file://$PROJECT_DIR$/src/backup2.java" />
     <entry file="file://$PROJECT_DIR$/guess.in">
       <provider selected="true" editor-type-id="text-editor" />
@@ -497,13 +480,6 @@
     <entry file="file://$PROJECT_DIR$/checklist.out">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/checklist.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-81">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/radio.in">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -528,16 +504,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
           <caret line="40" column="51" lean-forward="true" selection-start-line="40" selection-start-column="51" selection-end-line="40" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/radio.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="57" selection-start-line="57" selection-end-line="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -567,6 +533,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/hps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-310">
+          <caret line="25" column="34" lean-forward="true" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/hps.in">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -577,10 +553,40 @@
     <entry file="file://$PROJECT_DIR$/hps.out">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/hps.java">
+    <entry file="file://$PROJECT_DIR$/src/radio.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="43" column="120" selection-start-line="43" selection-start-column="120" selection-end-line="43" selection-end-column="120" />
+        <state relative-caret-position="73">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/checklist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-172">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nocross/in.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nocross.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nocross.in">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nocross.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
