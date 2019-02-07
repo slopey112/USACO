@@ -1,6 +1,6 @@
 # USACO Problem Solutions
 
-The following are tables filled with all my solutions to USACO problems. To clarify, all of the below problems have been full-solved with the respective solutions.  
+The following are tables filled with all my solutions to USACO problems, grouped by division and sorted chronologically. To clarify, all of the below problems have been full-solved with the respective solutions.  
 
 ### Bronze
 Problem Date   | Problem Name                       | Solution Notes
@@ -23,7 +23,7 @@ Jan 2019       | [guess](/src/guess.java)           | Complete Search
 Problem Date   | Problem Name                       | Solution Notes
 :------------: | :-----------:                      | :-------------------:
 Dec 2017       | [homework](/src/homework.java)     | Complete Search
-Jan 2019       | [planting](/src/planting.java)     | Ad Hoc 
+Jan 2019       | [planting](/src/planting.java)     | Math
 Jan 2019       | [perimeter](/src/perimeter.java)   | Flood Fill
 Jan 2019       | [mountains](/src/mountains.java)   | Sorting 
 
@@ -34,5 +34,4 @@ Dec 2015       | [cardgame](/src/cardgame.java)     | Sorting & Greedy
 Jan 2016       | [radio](/src/radio.java)           | DP
 Dec 2016       | [checklist](/src/checklist.java)   | DP
 Jan 2017       | [hps](/src/hps.java)               | DP
-Feb 2017       | [nocross](/src/nocross.java)       | DP
-Jan 2019       | [sleepy](/src/sleepy.java)         | Binary Indexed Tree
+Jan 2019       | [sleepy](/src/sleepy.java)         | Binary Index Tree
