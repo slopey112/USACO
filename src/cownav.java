@@ -7,7 +7,7 @@ public class cownav {
     private static final int DOWN = 1;
     private static final int LEFT = 0;
     private static int N;
-    private static int[][] grid;
+    private static int[][] grid;c
 
     static class State {
         private int x1, y1, d1, x2, y2, d2;
