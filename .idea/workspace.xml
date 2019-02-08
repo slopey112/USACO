@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fcebf7b5-43f6-43e9-b845-a13a6dd0e868" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Training Pages/Training Pages.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Training Pages/src/gift1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Training Pages/src/ride.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gift1.in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cownav.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cownav.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cownav.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -24,16 +23,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Training Pages/src/gift1.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cownav.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+            <state relative-caret-position="179">
+              <caret line="86" column="28" selection-start-line="86" selection-start-column="28" selection-end-line="86" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cownav.in">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cownav.out">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -53,6 +66,7 @@
       <find>Integer.parseInt(st.nextToken())</find>
       <find>max</find>
       <find>mitnik</find>
+      <find>grid</find>
     </findStrings>
     <replaceStrings>
       <replace>int</replace>
@@ -66,8 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/guess.out" />
-        <option value="$PROJECT_DIR$/guess.in" />
         <option value="$PROJECT_DIR$/src/perimeter.java" />
         <option value="$PROJECT_DIR$/perimeter.out" />
         <option value="$PROJECT_DIR$/perimeter.in" />
@@ -117,6 +129,8 @@
         <option value="$PROJECT_DIR$/gift1.in" />
         <option value="$PROJECT_DIR$/Training Pages/src/gift1.java" />
         <option value="$PROJECT_DIR$/gift1.out" />
+        <option value="$PROJECT_DIR$/cownav.in" />
+        <option value="$PROJECT_DIR$/src/cownav.java" />
       </list>
     </option>
   </component>
@@ -145,17 +159,6 @@
               <item name="USACO" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="USACO" type="b2602c69:ProjectViewProjectNode" />
-              <item name="USACO" type="462c0819:PsiDirectoryNode" />
-              <item name="Training Pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="USACO" type="b2602c69:ProjectViewProjectNode" />
-              <item name="USACO" type="462c0819:PsiDirectoryNode" />
-              <item name="Training Pages" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -166,13 +169,15 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549591329461" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549604623729" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -194,7 +199,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.gift1">
+  <component name="RunManager" selected="Application.cownav">
     <configuration name="bphoto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bphoto" />
       <module name="USACO" />
@@ -202,8 +207,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="cardgame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cardgame" />
+    <configuration name="cownav" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cownav" />
       <module name="USACO" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -231,19 +236,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.cardgame" />
       <item itemvalue="Application.hps" />
       <item itemvalue="Application.nocross" />
       <item itemvalue="Application.bphoto" />
       <item itemvalue="Application.gift1" />
+      <item itemvalue="Application.cownav" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.cownav" />
         <item itemvalue="Application.gift1" />
         <item itemvalue="Application.bphoto" />
         <item itemvalue="Application.nocross" />
         <item itemvalue="Application.hps" />
-        <item itemvalue="Application.cardgame" />
       </list>
     </recent_temporary>
   </component>
@@ -296,17 +301,18 @@
       <workItem from="1549344599652" duration="43000" />
       <workItem from="1549344718107" duration="6740000" />
       <workItem from="1549428591246" duration="8108000" />
-      <workItem from="1549581090344" duration="6656000" />
+      <workItem from="1549581090344" duration="13806000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="177761000" />
+    <option name="totallyTimeSpent" value="184911000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49879518" visible="true" weight="0.1996337" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49879518" visible="true" weight="0.1996337" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -315,7 +321,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.50120485" side_tool="true" weight="0.15307583" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32857144" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23571429" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.39591837" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -378,19 +384,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/shuffle.out">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shuffle.in">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mountains.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/shortcut.out">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -536,13 +529,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/checklist.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-172">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/nocross/in.java" />
     <entry file="file://$PROJECT_DIR$/nocross.out">
       <provider selected="true" editor-type-id="text-editor" />
@@ -625,13 +611,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Training Pages/src/gift1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        <state relative-caret-position="255">
+          <caret line="21" column="40" lean-forward="true" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/checklist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cownav.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cownav.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="86" column="28" selection-start-line="86" selection-start-column="28" selection-end-line="86" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cownav.out">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
