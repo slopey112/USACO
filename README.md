@@ -33,7 +33,7 @@ Problem Date   | Problem ID                         | Sorting Notes
 Dec 2015       | [cardgame](/src/cardgame.java)     | Sorting & Greedy
 Jan 2016       | [radio](/src/radio.java)           | DP
 Dec 2016       | [checklist](/src/checklist.java)   | DP
-Jan 2017       | [bphoto](/src/checklist.java)
+Jan 2017       | [bphoto](/src/checklist.java)      | Fenwick Tree
 Jan 2017       | [hps](/src/hps.java)               | DP
 Feb 2017       | [nocross](/src/nocross.java)       | DP
-Jan 2019       | [sleepy](/src/sleepy.java)         | Binary Index Tree
+Jan 2019       | [sleepy](/src/sleepy.java)         | Fenwick Tree
