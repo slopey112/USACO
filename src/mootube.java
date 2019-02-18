@@ -22,10 +22,6 @@ public class mootube {
             return i;
         }
 
-        private boolean connected(int p, int q) {
-            return root(p) == root(q);
-        }
-
         private void union(int p, int q) {
             int rootP = root(p);
             int rootQ = root(q);
