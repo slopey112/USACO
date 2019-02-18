@@ -38,4 +38,5 @@ Jan 2017       | [hps](/src/hps.java)               | DP
 Jan 2017       | [cownav](/src/cownav.java)         | BFS & Brute Force
 Feb 2017       | [visitfj](/src/visitfj.java)       | Dijkstra
 Feb 2017       | [nocross](/src/nocross.java)       | DP
+Jan 2018       | [mootube](/src/mootube.java)       | Greedy & UFDS
 Jan 2019       | [sleepy](/src/sleepy.java)         | Fenwick Tree

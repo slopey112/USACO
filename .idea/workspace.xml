@@ -5,23 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fcebf7b5-43f6-43e9-b845-a13a6dd0e868" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/shortcut.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shortcut.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shortcut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mootube.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mootube.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mootube.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/Dijkstra$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/Dijkstra$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/Dijkstra$Pair.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/Dijkstra.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/Edge.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/EdgeWeightedGraph.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/lasers$Line.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/lasers$Point$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/lasers$Point$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/lasers$Point.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/lasers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/shortcut.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/USACO/shortcut.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/visitfj.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/USACO/visitfj.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/USACO/shortcut$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/USACO/shortcut.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,41 +24,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/visitfj.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
-              <caret line="54" column="37" selection-start-line="54" selection-start-column="37" selection-end-line="54" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/shortcut.java">
+        <entry file="file://$PROJECT_DIR$/src/mootube.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="393">
-              <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
+            <state relative-caret-position="315">
+              <caret line="90" column="50" lean-forward="true" selection-start-line="90" selection-start-column="50" selection-end-line="90" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#570#571#0" expanded="true" />
+                <element signature="e#619#620#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shortcut.in">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/mootube.in">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shortcut.out">
+        <entry file="file://$PROJECT_DIR$/mootube.out">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -92,6 +67,7 @@
       <find>mitnik</find>
       <find>grid</find>
       <find>distTo =</find>
+      <find>System.out</find>
     </findStrings>
     <replaceStrings>
       <replace>int</replace>
@@ -105,9 +81,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/mtbackup.java" />
-        <option value="$PROJECT_DIR$/mountains.out" />
-        <option value="$PROJECT_DIR$/mountains.in" />
         <option value="$PROJECT_DIR$/src/mountains.java" />
         <option value="$PROJECT_DIR$/src/Graph.java" />
         <option value="$PROJECT_DIR$/shuffle.out" />
@@ -147,7 +120,6 @@
         <option value="$PROJECT_DIR$/gift1.out" />
         <option value="$PROJECT_DIR$/cownav.out" />
         <option value="$PROJECT_DIR$/cownav.in" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/cownav.java" />
         <option value="$PROJECT_DIR$/lasers.in" />
         <option value="$PROJECT_DIR$/src/lasers.java" />
@@ -156,6 +128,10 @@
         <option value="$PROJECT_DIR$/visitfj.out" />
         <option value="$PROJECT_DIR$/shortcut.in" />
         <option value="$PROJECT_DIR$/src/shortcut.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/mootube.out" />
+        <option value="$PROJECT_DIR$/mootube.in" />
+        <option value="$PROJECT_DIR$/src/mootube.java" />
       </list>
     </option>
   </component>
@@ -171,7 +147,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -189,12 +164,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550009117405" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550464990983" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -224,7 +200,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.shortcut">
+  <component name="RunManager" selected="Application.mootube">
     <configuration name="cownav" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cownav" />
       <module name="USACO" />
@@ -232,15 +208,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="gift1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gift1" />
-      <module name="Training Pages" />
+    <configuration name="lasers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lasers" />
+      <module name="USACO" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lasers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lasers" />
+    <configuration name="mootube" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mootube" />
       <module name="USACO" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -261,19 +237,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.gift1" />
       <item itemvalue="Application.cownav" />
       <item itemvalue="Application.lasers" />
       <item itemvalue="Application.visitfj" />
       <item itemvalue="Application.shortcut" />
+      <item itemvalue="Application.mootube" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.mootube" />
         <item itemvalue="Application.shortcut" />
         <item itemvalue="Application.visitfj" />
         <item itemvalue="Application.lasers" />
         <item itemvalue="Application.cownav" />
-        <item itemvalue="Application.gift1" />
       </list>
     </recent_temporary>
   </component>
@@ -331,16 +307,19 @@
       <workItem from="1549761592029" duration="82000" />
       <workItem from="1549826069774" duration="11178000" />
       <workItem from="1550029448715" duration="181000" />
+      <workItem from="1550455188280" duration="5766000" />
+      <workItem from="1550522022549" duration="907000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="213229000" />
+    <option name="totallyTimeSpent" value="219902000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49879518" visible="true" weight="0.17643468" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49879518" visible="true" weight="0.18097281" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -349,7 +328,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.50120485" side_tool="true" weight="0.15307583" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32857144" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.38313252" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3180723" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -357,7 +336,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32891566" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32168674" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Palette" order="0" />
@@ -412,21 +391,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/blist.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/speeding.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sleepybackup.java" />
     <entry file="file://$PROJECT_DIR$/src/redistricting.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -559,16 +523,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cownav.out" />
     <entry file="file://$PROJECT_DIR$/cownav.in" />
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="363">
-            <caret line="33" column="56" lean-forward="true" selection-start-line="33" selection-start-column="56" selection-end-line="33" selection-end-column="56" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/nocross.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -594,9 +548,22 @@
     <entry file="file://$PROJECT_DIR$/visitfj.in" />
     <entry file="file://$PROJECT_DIR$/visitfj.out" />
     <entry file="file://$PROJECT_DIR$/src/lasers.java" />
+    <entry file="file://$PROJECT_DIR$/shortcut.in" />
+    <entry file="file://$PROJECT_DIR$/shortcut.out" />
+    <entry file="file://$PROJECT_DIR$/src/shortcut.java" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/visitfj.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
+        <state relative-caret-position="370">
           <caret line="54" column="37" selection-start-line="54" selection-start-column="37" selection-end-line="54" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -604,22 +571,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shortcut.in">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shortcut.out">
+    <entry file="file://$PROJECT_DIR$/mootube.out">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/shortcut.java">
+    <entry file="file://$PROJECT_DIR$/mootube.in">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mootube.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
+        <state relative-caret-position="315">
+          <caret line="90" column="50" lean-forward="true" selection-start-line="90" selection-start-column="50" selection-end-line="90" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#570#571#0" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
           </folding>
         </state>
       </provider>
