@@ -32,6 +32,7 @@ Problem Date   | Problem ID                         | Sorting Notes
 :------------: | :-----------:                      | :-------------------:
 Dec 2015       | [cardgame](/src/cardgame.java)     | Sorting & Greedy
 Dec 2015       | [feast](/src/feast.java)           | DP
+Dec 2015       | [dream](/src/dream.java)           | BFS
 Jan 2016       | [radio](/src/radio.java)           | DP
 Dec 2016       | [moocast](/src/moocast.java)       | Greedy & UFDS
 Dec 2016       | [checklist](/src/checklist.java)   | DP
