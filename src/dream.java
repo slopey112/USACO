@@ -47,11 +47,11 @@ public class dream {
                         if (canGo(x, y+1)) states.add(new State(x, y+1, UP));
                         else flag = true;
                         break;
-                    case(RIGHT):
+                    case (RIGHT):
                         if (canGo(x+1, y)) states.add(new State(x+1, y, RIGHT));
                         else flag = true;
                         break;
-                    case(DOWN):
+                    case (DOWN):
                         if (canGo(x, y-1)) states.add(new State(x, y-1, DOWN));
                         else flag = true;
                         break;
@@ -78,15 +78,6 @@ public class dream {
     }
 
     private static int getCol(int x, int y) { return grid[N-y-1][x]; }
-
-    private static void printMatrix() {
-        for (int i = 0; i < N; i++) {
-            for (int j = 0; j < M; j++) {
-                System.out.print(grid[i][j] + " ");
-            }
-            System.out.println();
-        }
-    }
 
     public static void main(String[] args) throws IOException {
         BufferedReader in = new BufferedReader(new FileReader("dream.in"));
