@@ -30,6 +30,7 @@ Jan 2019       | [mountains](/src/mountains.java)   | Sorting
 ### Gold
 Problem Date   | Problem ID                         | Sorting Notes
 :------------: | :-----------:                      | :-------------------:
+Feb 2014       | [rblock](/src/rblock.java)         | Dijkstra
 Dec 2015       | [cardgame](/src/cardgame.java)     | Sorting & Greedy
 Dec 2015       | [feast](/src/feast.java)           | DP
 Dec 2015       | [dream](/src/dream.java)           | BFS
