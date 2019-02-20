@@ -28,19 +28,20 @@ Jan 2019       | [perimeter](/src/perimeter.java)   | Flood Fill
 Jan 2019       | [mountains](/src/mountains.java)   | Sorting 
 
 ### Gold
-Problem Date   | Problem ID                         | Sorting Notes
-:------------: | :-----------:                      | :-------------------:
-Feb 2014       | [rblock](/src/rblock.java)         | Dijkstra
-Dec 2015       | [cardgame](/src/cardgame.java)     | Sorting & Greedy
-Dec 2015       | [feast](/src/feast.java)           | DP
-Dec 2015       | [dream](/src/dream.java)           | BFS
-Jan 2016       | [radio](/src/radio.java)           | DP
-Dec 2016       | [moocast](/src/moocast.java)       | Greedy & UFDS
-Dec 2016       | [checklist](/src/checklist.java)   | DP
-Jan 2017       | [bphoto](/src/checklist.java)      | Fenwick Tree
-Jan 2017       | [hps](/src/hps.java)               | DP
-Jan 2017       | [cownav](/src/cownav.java)         | BFS & Brute Force
-Feb 2017       | [visitfj](/src/visitfj.java)       | Dijkstra
-Feb 2017       | [nocross](/src/nocross.java)       | DP
-Jan 2018       | [mootube](/src/mootube.java)       | Greedy & UFDS
-Jan 2019       | [sleepy](/src/sleepy.java)         | Fenwick Tree
+Problem Date   | Problem ID                            | Sorting Notes
+:------------: | :-----------:                         | :-------------------:
+Dec 2013       | [vacationgold](/src/vacationgold.java)| Dijkstra
+Feb 2014       | [rblock](/src/rblock.java)            | Dijkstra
+Dec 2015       | [cardgame](/src/cardgame.java)        | Sorting & Greedy
+Dec 2015       | [feast](/src/feast.java)              | DP
+Dec 2015       | [dream](/src/dream.java)              | BFS
+Jan 2016       | [radio](/src/radio.java)              | DP
+Dec 2016       | [moocast](/src/moocast.java)          | Greedy & UFDS
+Dec 2016       | [checklist](/src/checklist.java)      | DP
+Jan 2017       | [bphoto](/src/checklist.java)         | Fenwick Tree
+Jan 2017       | [hps](/src/hps.java)                  | DP
+Jan 2017       | [cownav](/src/cownav.java)            | BFS & Brute Force
+Feb 2017       | [visitfj](/src/visitfj.java)          | Dijkstra
+Feb 2017       | [nocross](/src/nocross.java)          | DP
+Jan 2018       | [mootube](/src/mootube.java)          | Greedy & UFDS
+Jan 2019       | [sleepy](/src/sleepy.java)            | Fenwick Tree
