@@ -30,6 +30,7 @@ Jan 2019       | [mountains](/src/mountains.java)   | Sorting
 ### Gold
 Problem Date   | Problem ID                            | Sorting Notes
 :------------: | :-----------:                         | :-------------------:
+March 2013     | [cowrun](/src/cowrun.java)            | DP
 Dec 2013       | [vacationgold](/src/vacationgold.java)| Dijkstra
 Feb 2014       | [rblock](/src/rblock.java)            | Dijkstra
 Dec 2015       | [cardgame](/src/cardgame.java)        | Sorting & Greedy
