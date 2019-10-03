@@ -9,6 +9,7 @@ Dec 2015       | [paint](/src/paint.java)           | Simulation
 Dec 2015       | [speeding](/src/speeding.java)     | Simulation
 Jan 2016       | [promotion](/src/promotion.java)   | Math
 Jan 2017       | [notlast](/src/notlast.java)       | Sorting
+Feb 2017       | [crossroad](/src/crossroad.py)     | Greedy
 Dec 2017       | [shuffle](/src/shuffle.java)       | Simulation
 Jan 2018       | [outofplace](/src/outofplace.java) | Bubble Sort
 Feb 2018       | [teleport](/src/teleport.java)     | Math

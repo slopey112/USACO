@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fcebf7b5-43f6-43e9-b845-a13a6dd0e868" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lemonade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/balance.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snakes.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/balance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/snakes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/walk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/walk.in" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training Pages/gift1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training Pages/ride.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/skilevel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/USACO/skilevel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/USACO/lemonade.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/USACO/lemonade.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,11 +26,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lemonade.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/snakes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+            <state relative-caret-position="453">
+              <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/balance.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -47,7 +61,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>long</find>
       <find>st.nextToken(</find>
       <find>st.nextToken()</find>
       <find>Integer.parseInt(st.nextToken())</find>
@@ -57,11 +70,15 @@
       <find>distTo =</find>
       <find>System.out</find>
       <find>System</find>
+      <find>(long long)</find>
+      <find>long</find>
     </findStrings>
     <replaceStrings>
       <replace>int</replace>
       <replace>name</replace>
       <replace>num</replace>
+      <replace>o.a.y</replace>
+      <replace>o.b.x</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -70,22 +87,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/teamwork.java" />
-        <option value="$PROJECT_DIR$/jan2017/bphoto.in" />
-        <option value="$PROJECT_DIR$/bphoto.out" />
-        <option value="$PROJECT_DIR$/bphoto.in" />
-        <option value="$PROJECT_DIR$/jan2017/src/bphoto.java" />
-        <option value="$PROJECT_DIR$/src/bphoto.java" />
-        <option value="$PROJECT_DIR$/Training Pages/src/ride.java" />
-        <option value="$PROJECT_DIR$/gift1.in" />
-        <option value="$PROJECT_DIR$/Training Pages/src/gift1.java" />
-        <option value="$PROJECT_DIR$/gift1.out" />
-        <option value="$PROJECT_DIR$/cownav.out" />
-        <option value="$PROJECT_DIR$/cownav.in" />
-        <option value="$PROJECT_DIR$/src/cownav.java" />
-        <option value="$PROJECT_DIR$/lasers.in" />
-        <option value="$PROJECT_DIR$/src/lasers.java" />
-        <option value="$PROJECT_DIR$/visitfj.in" />
         <option value="$PROJECT_DIR$/src/visitfj.java" />
         <option value="$PROJECT_DIR$/visitfj.out" />
         <option value="$PROJECT_DIR$/shortcut.in" />
@@ -112,7 +113,6 @@
         <option value="$PROJECT_DIR$/skilevel.in" />
         <option value="$PROJECT_DIR$/cowrun.in" />
         <option value="$PROJECT_DIR$/src/cowrun.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/route.in" />
         <option value="$PROJECT_DIR$/src/route.java" />
         <option value="$PROJECT_DIR$/src/skilevel.java" />
@@ -120,7 +120,24 @@
         <option value="$PROJECT_DIR$/src/cowland.java" />
         <option value="$PROJECT_DIR$/dishes.in" />
         <option value="$PROJECT_DIR$/src/dishes.java" />
+        <option value="$PROJECT_DIR$/lemonade.in" />
         <option value="$PROJECT_DIR$/src/lemonade.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/where.java" />
+        <option value="$PROJECT_DIR$/src/bphoto.java" />
+        <option value="$PROJECT_DIR$/src/seating.java" />
+        <option value="$PROJECT_DIR$/nochange.in" />
+        <option value="$PROJECT_DIR$/src/nochange.java" />
+        <option value="$PROJECT_DIR$/hillwalk.out" />
+        <option value="$PROJECT_DIR$/hillwalk.in" />
+        <option value="$PROJECT_DIR$/src/hillwalk.java" />
+        <option value="$PROJECT_DIR$/snakes.in" />
+        <option value="$PROJECT_DIR$/src/snakes.java" />
+        <option value="$PROJECT_DIR$/walk.out" />
+        <option value="$PROJECT_DIR$/src/walk.java" />
+        <option value="$PROJECT_DIR$/balance.in" />
+        <option value="$PROJECT_DIR$/src/balance.java" />
+        <option value="$PROJECT_DIR$/walk.in" />
       </list>
     </option>
   </component>
@@ -136,7 +153,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -153,13 +169,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553619763939" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554093116663" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -189,56 +206,56 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.lemonade">
-    <configuration name="cowland" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cowland" />
+  <component name="RunManager" selected="Application.walk">
+    <configuration name="balance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="balance" />
       <module name="USACO" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="dishes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dishes" />
+    <configuration name="hillwalk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hillwalk" />
       <module name="USACO" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lemonade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lemonade" />
+    <configuration name="nochange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nochange" />
       <module name="USACO" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="route" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="route" />
+    <configuration name="snakes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="snakes" />
       <module name="USACO" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="skilevel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="skilevel" />
+    <configuration name="walk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="walk" />
       <module name="USACO" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.skilevel" />
-      <item itemvalue="Application.route" />
-      <item itemvalue="Application.cowland" />
-      <item itemvalue="Application.dishes" />
-      <item itemvalue="Application.lemonade" />
+      <item itemvalue="Application.nochange" />
+      <item itemvalue="Application.hillwalk" />
+      <item itemvalue="Application.snakes" />
+      <item itemvalue="Application.walk" />
+      <item itemvalue="Application.balance" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.lemonade" />
-        <item itemvalue="Application.dishes" />
-        <item itemvalue="Application.cowland" />
-        <item itemvalue="Application.skilevel" />
-        <item itemvalue="Application.route" />
+        <item itemvalue="Application.walk" />
+        <item itemvalue="Application.balance" />
+        <item itemvalue="Application.snakes" />
+        <item itemvalue="Application.hillwalk" />
+        <item itemvalue="Application.nochange" />
       </list>
     </recent_temporary>
   </component>
@@ -311,18 +328,25 @@
       <workItem from="1551584924674" duration="598000" />
       <workItem from="1551659141941" duration="110000" />
       <workItem from="1551668473669" duration="43000" />
-      <workItem from="1553619243442" duration="301000" />
+      <workItem from="1553619243442" duration="947000" />
+      <workItem from="1553879533647" duration="2577000" />
+      <workItem from="1553968407281" duration="4376000" />
+      <workItem from="1553973945834" duration="151000" />
+      <workItem from="1553975213734" duration="11764000" />
+      <workItem from="1554002019984" duration="27000" />
+      <workItem from="1554010436186" duration="181000" />
+      <workItem from="1554075177331" duration="241000" />
+      <workItem from="1554088952002" duration="1193000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="275153000" />
+    <option name="totallyTimeSpent" value="296309000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49879518" visible="true" weight="0.18240343" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49879518" visible="true" weight="0.17155068" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -331,8 +355,8 @@
       <window_info id="Favorites" order="6" sideWeight="0.50120485" side_tool="true" weight="0.15307583" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32857144" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.25306123" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.34183672" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2510204" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4030612" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -443,50 +467,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/visitfj.in" />
-    <entry file="file://$PROJECT_DIR$/visitfj.out" />
-    <entry file="file://$PROJECT_DIR$/src/lasers.java" />
-    <entry file="file://$PROJECT_DIR$/shortcut.in" />
-    <entry file="file://$PROJECT_DIR$/shortcut.out" />
-    <entry file="file://$PROJECT_DIR$/src/shortcut.java" />
-    <entry file="file://$PROJECT_DIR$/mootube.out" />
-    <entry file="file://$PROJECT_DIR$/mootube.in" />
-    <entry file="file://$PROJECT_DIR$/moocast.in" />
-    <entry file="file://$PROJECT_DIR$/moocast.out" />
-    <entry file="file://$PROJECT_DIR$/src/angry.java" />
-    <entry file="file://$PROJECT_DIR$/feast.out" />
-    <entry file="file://$PROJECT_DIR$/feast.in" />
-    <entry file="file://$PROJECT_DIR$/src/feast.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dream.out" />
-    <entry file="file://$PROJECT_DIR$/dream.in" />
-    <entry file="file://$PROJECT_DIR$/src/dream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1140">
-          <caret line="76" column="9" lean-forward="true" selection-start-line="76" selection-start-column="9" selection-end-line="76" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/visitfj.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="65" column="36" lean-forward="true" selection-start-line="65" selection-start-column="36" selection-end-line="65" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rblock.in" />
-    <entry file="file://$PROJECT_DIR$/rblock.out" />
     <entry file="file://$PROJECT_DIR$/vacation.out" />
     <entry file="file://$PROJECT_DIR$/vacationgold.in" />
     <entry file="file://$PROJECT_DIR$/vacationgold.out" />
@@ -501,13 +481,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/guard.java" />
-    <entry file="file://$PROJECT_DIR$/src/hps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-206">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/mixmilk.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -554,28 +527,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/route.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="618">
-          <caret line="55" column="53" selection-start-line="55" selection-start-column="53" selection-end-line="55" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/route.java" />
     <entry file="file://$PROJECT_DIR$/route.in" />
     <entry file="file://$PROJECT_DIR$/route.out" />
-    <entry file="file://$PROJECT_DIR$/src/skilevel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="105" column="29" selection-start-line="105" selection-start-column="29" selection-end-line="105" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/skilevel.java" />
     <entry file="file://$PROJECT_DIR$/skilevel.out" />
     <entry file="file://$PROJECT_DIR$/skilevel.in" />
     <entry file="file://$PROJECT_DIR$/src/cownav.java">
@@ -598,67 +553,131 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/USACO.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cowland.java" />
+    <entry file="file://$PROJECT_DIR$/src/dishes.java" />
+    <entry file="file://$PROJECT_DIR$/dishes.out" />
+    <entry file="file://$PROJECT_DIR$/dishes.in" />
+    <entry file="file://$PROJECT_DIR$/cowland.out" />
+    <entry file="file://$PROJECT_DIR$/cowland.in" />
+    <entry file="file://$PROJECT_DIR$/lemonade.in" />
+    <entry file="file://$PROJECT_DIR$/src/lemonade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/where.java" />
+    <entry file="file://$PROJECT_DIR$/src/seating.java" />
+    <entry file="file://$PROJECT_DIR$/src/bphoto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nochange.java" />
+    <entry file="file://$PROJECT_DIR$/nochange.in" />
+    <entry file="file://$PROJECT_DIR$/nochange.out" />
+    <entry file="file://$PROJECT_DIR$/hillwalk.out" />
+    <entry file="file://$PROJECT_DIR$/src/hillwalk.java" />
+    <entry file="file://$PROJECT_DIR$/hillwalk.in" />
+    <entry file="file://$PROJECT_DIR$/snakes.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="41" column="24" lean-forward="true" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snakes.out">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/perimeter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="45" column="33" lean-forward="true" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="480">
-            <caret line="32" column="59" selection-start-line="32" selection-start-column="59" selection-end-line="32" selection-end-column="59" />
+          <first_editor relative-caret-position="330">
+            <caret line="25" column="61" selection-start-line="25" selection-start-column="61" selection-end-line="25" selection-end-column="61" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/USACO.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cowland.java">
+    <entry file="file://$PROJECT_DIR$/walk.out">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="758">
-          <caret line="60" column="45" selection-start-line="60" selection-start-column="45" selection-end-line="60" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dishes.java">
+    <entry file="file://$PROJECT_DIR$/walk.in">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dishes.out">
+    <entry file="file://$PROJECT_DIR$/balance.out">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="1" selection-start-column="1" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dishes.in">
+    <entry file="file://$PROJECT_DIR$/balance.in">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        <state relative-caret-position="15">
+          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cowland.out">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cowland.in">
+    <entry file="file://$PROJECT_DIR$/src/walk.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lemonade.java">
+    <entry file="file://$PROJECT_DIR$/src/snakes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        <state relative-caret-position="453">
+          <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/balance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
